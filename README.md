@@ -1,6 +1,6 @@
-# Foundation Compass Template
+# Bird Watch
 
-The easiest way to get started with Foundation + Compass.
+With Foundation + Compass.
 
 ## Requirements
 
