@@ -26,4 +26,5 @@ If you'd like to upgrade to a newer version of Foundation down the road just run
 
 ```bash
 bower update
+Edit - noticing a bug with top-bar foundation after run bower update. Reccomend using version 0.12.6
 ```
